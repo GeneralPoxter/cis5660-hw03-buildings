@@ -38,3 +38,7 @@ The architectural elements were mainly inspired by Frank LLoyd Wright's two vert
 The horizontal ribbon windows, streamlined corners, and the top spire's shape were derived from the Johnson building.
 The thin vertical windows, triangular balconies, pillar shape, and overall color scheme was based on the Price Tower.
 Lastly, aluminum trim was added to windows and doors as an homage to the Streamline Moderne form of Art Deco -- the style which inspired the Johnson building.
+
+## Extra credit render
+
+![](./assets/render.jpg)
