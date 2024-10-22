@@ -32,7 +32,7 @@ https://github.com/user-attachments/assets/b18877a7-e185-4d36-925f-9faeada00abc
 
 |                                         Johnson Wax Headquarters                                         |                                               Price Tower                                                |
 | :------------------------------------------------------------------------------------------------------: | :------------------------------------------------------------------------------------------------------: |
-| <image src="https://github.com/user-attachments/assets/dc44c3f5-cede-4752-bfc6-dd73a5e4e9e9" height=250> | <image src="https://github.com/user-attachments/assets/4667959b-5144-493f-ab51-101ce81aac5e" height=250> <image src="https://github.com/user-attachments/assets/978d3075-1322-4164-b767-1ecb61bf2cf0" height=250> |
+| <image src="https://github.com/user-attachments/assets/dc44c3f5-cede-4752-bfc6-dd73a5e4e9e9" height=200> | <image src="https://github.com/user-attachments/assets/7507487d-8dc1-4c02-a585-eabc06b228b3" height=200> <image src="https://github.com/user-attachments/assets/978d3075-1322-4164-b767-1ecb61bf2cf0" height=200> |
 
 The architectural elements were mainly inspired by Frank LLoyd Wright's two vertically-oriented buildings: the Johnson Wax Headquarters and the Price Tower.
 The horizontal ribbon windows, streamlined corners, and the top spire's shape were derived from the Johnson building.
